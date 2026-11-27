@@ -1,6 +1,8 @@
-#EXTM3U refresh="30"
+#EXTM3U
 #EXTINF:-1 tvg-id="kbc-s18-ep43" tvg-name="KBC S18 EP43" tvg-logo="" group-title="Entertainment",KBC S18 EP43 (Hindi)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=none
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonynondrmvod.akamaized.net/DASH/dea06573d1564adc86f939b8722dc018/1791364513/baseline-std-v4/Show_set_Kaun_Banega_Crorepati_Season_18_Format2026_E0043_IND_07102026_hin_baseline-800300010.mpd?hdnea=exp=1795811576~acl=/*~id=f018dd856415445d8186e1e28372ffc4-1795756829675~hmac=957a6bef8efc8e36b67db95e5930a7285e0806085a62d242fa382991987f13f0
