@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U refresh="180"
 #EXTINF:-1 tvg-id="kbc-s17-ep03" tvg-name="KBC S17 EP03" tvg-logo="" group-title="Kaun Banega Crorepati", KBC S17 EP03
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
