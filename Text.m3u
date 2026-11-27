@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="kbc-s18-ep43" tvg-name="KBC S18 EP43" tvg-logo="" group-title="Entertainment", KBC S18 EP43 (Hindi)
+#EXTINF:-1 tvg-id="kbc-s18-ep43" tvg-name="KBC S18 EP43" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000025972/1791368534321869_KAUN-BANEGA-CROREPATI-S18-EP-43_landscape.jpg?w=360&q=low" group-title="Kaun Banega Crorepati", KBC S18 EP43 (Hindi)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=YOUR_LICENSE_SERVER_URL
