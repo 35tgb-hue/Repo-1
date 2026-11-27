@@ -1,1 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="kbc-s17-ep03" tvg-name="KBC S17 EP03" tvg-logo="" group-title="Kaun Banega Crorepati", KBC S17 EP03
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=YOUR_LICENSE_SERVER_URL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonygnondrm.sonyliv.com/DASH/2f2ed1f608ef496aac3b1ecac6ccf10c/1755104456/baseline-std-v4/show_set_KBC_S17_EP03_india_13082025_hin_baseline-800300010.mpd?hdnea=exp=1795800031~acl=/*~id=f018dd856415445d8186e1e28372ffc4-1795756829675~hmac=6eb38d6c436313fc6a8882f8b86ba7b6047cfdea02bf7dfa339a1f4d0fcab44b
 
